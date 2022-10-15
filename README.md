@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hadilBr
+- 👋 Hi, I’m Hadil
 
 - 🌱 I’m currently learning deep learing
 
